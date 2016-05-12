@@ -8,9 +8,9 @@ NOTE: Requires virtualenv, virtualenvwrapper and Node.js.
 Fork this repository.
 $ git clone git@github.com:<your username>/thinkster-django-angular-boilerplate.git
 
-$ mkvirtualenv thinkster-djangular
+$ mkvirtualenv env
 
-$ cd thinkster-django-angular-boilerplate/
+$ cd DjangoAngular/
 
 $ pip install -r requirements.txt
 
